@@ -22,10 +22,19 @@
             "tsConfig": "tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/assets/css",
+              "src/assets/images",
+              "src/assets/js",
+              "src/assets/sass"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/main.css",
+              "src/assets/css/util.css",
+              "src/assets/sass/menu.scss",
+              "src/assets/sass/footer.scss",
+              "src/assets/sass/main.scss"
             ],
             "scripts": []
           },

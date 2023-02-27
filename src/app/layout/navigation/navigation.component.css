@@ -1,0 +1,75 @@
+/*********************************************/
+/*         Full view index styles            */
+/*********************************************/
+.ServiciosCambiosEstado {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.CambioEstadoPlanilla {
+    width: 20%;
+    height: 10vh;
+    margin: 5px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.CambioEstadoPlanilla:hover{
+    background: #CA6107;
+    cursor: pointer;
+}
+.CambioEstadoPlanilla p{
+    color: #000;
+    text-decoration: none;
+}
+.CambioEstadoPlanilla:hover p{
+    color: #fff;
+}
+.EliminarEstadoPlanilla {
+    width: 20%;
+    height: 10vh;
+    margin: 5px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    border-color: #CA6107;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.EliminarEstadoPlanilla:hover {
+    background: #CA6107;
+    cursor: pointer;
+}
+.EliminarEstadoPlanilla p{
+    color: #000;
+}
+.EliminarEstadoPlanilla:hover p{
+    color: #fff;
+}
+.PruebaArchivoEntregada {
+    width: 20%;
+    height: 10vh;
+    margin: 5px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    border-color: #CA6107;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.PruebaArchivoEntregada:hover {
+    background: #CA6107;
+    cursor: pointer;
+}
+.PruebaArchivoEntregada p{
+    color: #000;
+}
+.PruebaArchivoEntregada:hover p{
+    color: #fff;
+}
